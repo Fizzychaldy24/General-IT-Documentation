@@ -1,6 +1,6 @@
 # General IT Documentation
 
-This repository contains a variety of resources, guides, and troubleshooting documentation on common IT-related tasks, such as setting up and managing **hypervisors**, configuring **ticketing systems**, hosting websites, and other IT infrastructure topics. 
+This repository contains a variety of resources, guides, and troubleshooting documentation on common IT-related tasks, such as setting up and managing **hypervisors**, configuring **ticketing systems**, hosting websites, and other IT infrastructure topics.
 
 Whether you are a helpdesk technician, system administrator, or IT specialist, you will find helpful guides and configuration examples here for a wide range of IT operations.
 
@@ -13,6 +13,8 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 - [System Administration](#system-administration)
 - [Troubleshooting Guides](#troubleshooting-guides)
 - [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -27,10 +29,11 @@ This repository provides various documentation and configuration guides that cov
 - **Proxmox**: Best practices and configuration examples for deploying and managing virtual environments.
 - **VirtualBox**: Guide for installing and configuring VirtualBox for virtualization.
 
-**Resources**:
+#### Resources:
 - [Hyper-V Setup Guide](hypervisors/hyperv-setup.md) - Steps for installing and configuring Hyper-V on Windows Server.
 - [VMware vSphere Best Practices](hypervisors/vmware-best-practices.md) - Recommended configurations for optimal performance.
 - [Proxmox Configuration](hypervisors/proxmox-configuration.md) - How to set up and manage virtual machines on Proxmox.
+- [VirtualBox Setup Guide](hypervisors/virtualbox-setup.md) - Guide for installing and configuring VirtualBox for virtualization.
 
 ## Ticketing Systems
 
@@ -41,7 +44,7 @@ This section provides guides and best practices for setting up and configuring t
 - **Zendesk**: Installation and configuration, ticket management, and automation.
 - **Freshservice**: How to configure and manage incidents, changes, and assets.
 
-**Resources**:
+#### Resources:
 - [Jira Service Management Setup](ticketing-systems/jira-setup.md) - A step-by-step guide on setting up Jira for IT support.
 - [Zendesk Ticket Workflow](ticketing-systems/zendesk-workflow.md) - How to streamline your ticket management process.
 - [Freshservice Configuration](ticketing-systems/freshservice-config.md) - Setup guide and tips for using Freshservice effectively.
@@ -55,7 +58,7 @@ This section covers how to host websites on different servers, including setting
 - **NGINX**: Configuring reverse proxies, load balancing, and SSL.
 - **Web Hosting on Cloud Providers (AWS, Azure, Google Cloud)**: How to set up virtual machines, manage DNS, and deploy websites.
 
-**Resources**:
+#### Resources:
 - [Apache Web Server Setup](web-hosting/apache-setup.md) - A guide to installing and configuring Apache for web hosting.
 - [NGINX SSL Configuration](web-hosting/nginx-ssl.md) - Step-by-step instructions for setting up SSL certificates on NGINX.
 - [AWS Web Hosting Guide](web-hosting/aws-web-hosting.md) - How to host a website on AWS, including EC2 instance setup and domain configuration.
@@ -69,7 +72,7 @@ This section contains useful guides on managing and configuring systems, includi
 - **Windows Server Administration**: Active Directory, DNS, DHCP, and PowerShell scripts.
 - **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
 
-**Resources**:
+#### Resources:
 - [Linux User Management](system-administration/linux-user-management.md) - How to add, modify, and manage users in a Linux environment.
 - [Windows Server Active Directory](system-administration/windows-active-directory.md) - Guide to setting up and managing Active Directory on Windows Server.
 - [Network Configuration Basics](system-administration/network-setup.md) - Best practices for setting up network services and securing your network.
@@ -78,12 +81,12 @@ This section contains useful guides on managing and configuring systems, includi
 
 This repository also contains troubleshooting documentation for common IT problems, including hardware, software, and network issues.
 
-**Examples**:
+### Examples:
 - **Internet Connectivity Issues**: Step-by-step guide for troubleshooting network problems.
 - **Disk Space Problems**: How to identify and resolve low disk space issues.
 - **Slow Computer Performance**: Tips and tools for diagnosing performance issues.
 
-**Resources**:
+#### Resources:
 - [Troubleshooting Network Issues](troubleshooting-guides/network-issues.md) - Guide for diagnosing and fixing network connectivity problems.
 - [Fixing Low Disk Space](troubleshooting-guides/disk-space.md) - How to free up space on your system and prevent future issues.
 - [Improving System Performance](troubleshooting-guides/system-performance.md) - Steps to troubleshoot and optimize system speed.
@@ -94,3 +97,27 @@ This repository also contains troubleshooting documentation for common IT proble
    To get started, clone the repository to your local machine:
    ```bash
    git clone https://github.com/username/repository-name.git
+
+## Contributing
+
+We welcome contributions to improve this documentation. If you’d like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and write clear commit messages.
+4. Submit a pull request with a description of the changes you’ve made.
+
+### Guidelines:
+
+- Ensure that any new documentation is clear, concise, and accurate.
+- Follow the same formatting as existing documentation for consistency.
+- If adding new topics, ensure they are categorized appropriately in the Table of Contents.
+
+## License
+
+This repository is licensed under the MIT License.
+
+## Contact
+
+For any inquiries, please reach out to ernestoangel202@gmail.com.
+
