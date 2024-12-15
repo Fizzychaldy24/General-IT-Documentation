@@ -34,16 +34,18 @@ This repository also contains troubleshooting documentation for common IT proble
 
 ## System Administration
 
-This section contains useful guides on managing and configuring systems, including Linux and Windows environments, network configuration, and system security.
+This section contains useful guides on managing and configuring systems, including Linux, Windows, and macOS environments, network configuration, and system security.
 
 ### Topics Include:
 - **Linux Administration**: User management, service configuration, and shell scripting.
 - **Windows Server Administration**: Active Directory, DNS, DHCP, and PowerShell scripts.
+- **macOS Administration**: User management, system configuration, and automation with AppleScript and Terminal.
 - **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
 
 #### Resources:
 - [Linux User Management](system-administration/linux-user-management.md) - How to add, modify, and manage users in a Linux environment.
 - [Windows Server Active Directory](system-administration/windows-active-directory.md) - Guide to setting up and managing Active Directory on Windows Server.
+- [macOS System Administration](system-administration/macos-system-administration.md) - A comprehensive guide to user management, system configuration, and automation on macOS.
 - [Network Configuration Basics](system-administration/network-setup.md) - Best practices for setting up network services and securing your network.
 
 ## Hypervisors
