@@ -28,14 +28,3 @@ This repository includes detailed guides for troubleshooting common IT issues. E
 6. **Software Not Opening or Crashing**: Troubleshooting application failures, fixing compatibility issues, and resolving software conflicts to ensure stable operation.
 7. **Account Access Issues**: Addressing issues related to account lockouts, login errors, and multi-factor authentication problems.
 8. **Hardware & Peripheral Troubleshooting**: Resolving issues with external devices like printers, monitors, external drives, and other peripherals, including driver updates and hardware diagnostics.
-
----
-
-These guides will help you resolve most common IT issues efficiently, ensuring smooth operations for users and businesses alike.
-
-## How to Use
-
-1. **Download or Clone the Repository**:  
-   To get started, clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/Fizzychaldy24/Troubleshooting-Guides.git
