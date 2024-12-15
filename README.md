@@ -7,11 +7,11 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Troubleshooting Guides](#troubleshooting-guides)
+- [System Administration](#system-administration)
 - [Hypervisors](#hypervisors)
 - [Ticketing Systems](#ticketing-systems)
 - [Web Hosting](#web-hosting)
-- [System Administration](#system-administration)
-- [Troubleshooting Guides](#troubleshooting-guides)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -19,6 +19,32 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 ## Introduction
 
 This repository provides various documentation and configuration guides that cover the essential aspects of managing IT infrastructure, including virtualization, web hosting, helpdesk systems, and more. The content is organized by topic to help guide IT professionals in resolving common issues and deploying best practices.
+
+## Troubleshooting Guides
+
+This repository also contains troubleshooting documentation for common IT problems, including hardware, software, and network issues.
+
+### Examples:
+- **Internet Connectivity Issues**: Step-by-step guide for troubleshooting network problems.
+- **Disk Space Problems**: How to identify and resolve low disk space issues.
+- **Slow Computer Performance**: Tips and tools for diagnosing performance issues.
+
+#### Documentation:
+- [Troubleshooting Guides](Troubleshooting%20Guides/) - A comprehensive collection of guides designed to help you solve common IT problems related to networking, hardware, and system performance.
+
+## System Administration
+
+This section contains useful guides on managing and configuring systems, including Linux and Windows environments, network configuration, and system security.
+
+### Topics Include:
+- **Linux Administration**: User management, service configuration, and shell scripting.
+- **Windows Server Administration**: Active Directory, DNS, DHCP, and PowerShell scripts.
+- **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
+
+#### Resources:
+- [Linux User Management](system-administration/linux-user-management.md) - How to add, modify, and manage users in a Linux environment.
+- [Windows Server Active Directory](system-administration/windows-active-directory.md) - Guide to setting up and managing Active Directory on Windows Server.
+- [Network Configuration Basics](system-administration/network-setup.md) - Best practices for setting up network services and securing your network.
 
 ## Hypervisors
 
@@ -62,32 +88,6 @@ This section covers how to host websites on different servers, including setting
 - [NGINX SSL Configuration](web-hosting/nginx-ssl.md) - Step-by-step instructions for setting up SSL certificates on NGINX.
 - [AWS Web Hosting Guide](web-hosting/aws-web-hosting.md) - How to host a website on AWS, including EC2 instance setup and domain configuration.
 
-## System Administration
-
-This section contains useful guides on managing and configuring systems, including Linux and Windows environments, network configuration, and system security.
-
-### Topics Include:
-- **Linux Administration**: User management, service configuration, and shell scripting.
-- **Windows Server Administration**: Active Directory, DNS, DHCP, and PowerShell scripts.
-- **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
-
-#### Resources:
-- [Linux User Management](system-administration/linux-user-management.md) - How to add, modify, and manage users in a Linux environment.
-- [Windows Server Active Directory](system-administration/windows-active-directory.md) - Guide to setting up and managing Active Directory on Windows Server.
-- [Network Configuration Basics](system-administration/network-setup.md) - Best practices for setting up network services and securing your network.
-
-## Troubleshooting Guides
-
-This repository also contains troubleshooting documentation for common IT problems, including hardware, software, and network issues.
-
-### Examples:
-- **Internet Connectivity Issues**: Step-by-step guide for troubleshooting network problems.
-- **Disk Space Problems**: How to identify and resolve low disk space issues.
-- **Slow Computer Performance**: Tips and tools for diagnosing performance issues.
-
-#### Documentation:
-- [Troubleshooting Guides](Troubleshooting%20Guides/) - A comprehensive collection of guides designed to help you solve common IT problems related to networking, hardware, and system performance.
-
 ## How to Use
 
 1. **Clone the Repository**:
@@ -113,4 +113,3 @@ We welcome contributions to improve this documentation. If you’d like to contr
 ## Contact
 
 For any inquiries, please reach out to ernestoangel202@gmail.com.
-
