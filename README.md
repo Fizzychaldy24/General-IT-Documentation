@@ -14,7 +14,6 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 - [Troubleshooting Guides](#troubleshooting-guides)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -112,10 +111,6 @@ We welcome contributions to improve this documentation. If you’d like to contr
 - Ensure that any new documentation is clear, concise, and accurate.
 - Follow the same formatting as existing documentation for consistency.
 - If adding new topics, ensure they are categorized appropriately in the Table of Contents.
-
-## License
-
-This repository is licensed under the MIT License.
 
 ## Contact
 
