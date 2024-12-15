@@ -43,7 +43,7 @@ This section contains useful guides on managing and configuring systems, includi
 - **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
 
 #### Resources:
-- [Linux User Management](system-administration/linux-user-management.md) - How to add, modify, and manage users in a Linux environment.
+- [Linux User Management](System%20Administration/Linux%20Administration/Linux%20User%20Management.md) - How to add, modify, and manage users in a Linux environment.
 - [Windows Server Active Directory](system-administration/windows-active-directory.md) - Guide to setting up and managing Active Directory on Windows Server.
 - [macOS User Management](system-administration/macos-user-management.md) - Instructions on adding, modifying, and managing user accounts in macOS.
 - [Network Configuration Basics](system-administration/network-setup.md) - Best practices for setting up network services and securing your network.
