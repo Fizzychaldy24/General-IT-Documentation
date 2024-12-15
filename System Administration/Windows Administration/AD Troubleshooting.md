@@ -15,6 +15,7 @@ Active Directory (AD) replication ensures that changes made to objects on one Do
    - [Step 6: Check the Site Configuration](#step-6-check-the-site-configuration)
 5. [Advanced Troubleshooting](#advanced-troubleshooting)
 6. [Best Practices for Active Directory Replication](#best-practices-for-active-directory-replication)
+7. [Windows Server Administration: DNS, DHCP, and PowerShell](#windows-server-administration-dns-dhcp-and-powershell)
 
 ## Overview of Active Directory Replication
 
@@ -191,3 +192,31 @@ This helps to identify whether the schema has fully replicated across the forest
 
 ### Backup and Test Recovery Procedures:
 - Regularly back up the Active Directory database and test disaster recovery procedures to recover from potential replication issues.
+## Using PowerShell for AD Replication Troubleshooting
+
+PowerShell is an essential tool for automation and scripting tasks and can be used to manage DNS, DHCP, and replication.
+
+### Get Replication Status with PowerShell
+You can use PowerShell to gather detailed information about AD replication:
+
+```powershell
+Get-ADReplicationPartnerMetadata -Target * -Scope Domain
+```
+
+This command retrieves metadata related to replication partners in the domain, which helps identify any replication failures or delays.
+
+### Test DNS Configuration with PowerShell
+You can use PowerShell to query DNS settings and troubleshoot issues:
+
+```powershell
+Resolve-DnsName <domain_controller_name>
+```
+
+### Force Replication with PowerShell
+Use the following PowerShell command to force replication between Domain Controllers:
+
+```powershell
+Sync-ADObject -Object <ObjectDN> -Server <DC_Name>
+```
+
+This is a useful command for manually triggering replication, especially when automated replication is failing.
