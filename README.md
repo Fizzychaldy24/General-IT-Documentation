@@ -86,7 +86,7 @@ This repository also contains troubleshooting documentation for common IT proble
 - **Slow Computer Performance**: Tips and tools for diagnosing performance issues.
 
 #### Documentation:
-- [Troubleshooting Guides](Troubleshooting%20Guides/)
+- [Troubleshooting Guides](Troubleshooting%20Guides/) - A comprehensive collection of guides designed to help you solve common IT problems related to networking, hardware, and system performance.
 
 ## How to Use
 
