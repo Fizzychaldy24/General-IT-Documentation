@@ -13,8 +13,6 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 - [System Administration](#system-administration)
 - [Troubleshooting Guides](#troubleshooting-guides)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -27,6 +25,7 @@ This repository provides various documentation and configuration guides that cov
 - **VMware vSphere/ESXi**: Documentation on installation, setup, and management.
 - **Microsoft Hyper-V**: Guides for installation, configuration, and troubleshooting virtual machines.
 - **Proxmox**: Best practices and configuration examples for deploying and managing virtual environments.
+- **VirtualBox**: Guide for installing and configuring VirtualBox for virtualization.
 
 **Resources**:
 - [Hyper-V Setup Guide](hypervisors/hyperv-setup.md) - Steps for installing and configuring Hyper-V on Windows Server.
