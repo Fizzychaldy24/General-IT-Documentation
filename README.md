@@ -45,8 +45,8 @@ This section contains useful guides on managing and configuring systems, includi
 #### Resources:
 - [Linux User Management](system-administration/linux-user-management.md) - How to add, modify, and manage users in a Linux environment.
 - [Windows Server Active Directory](system-administration/windows-active-directory.md) - Guide to setting up and managing Active Directory on Windows Server.
-- [Network Configuration Basics](system-administration/network-setup.md) - Best practices for setting up network services and securing your network.
 - [macOS User Management](system-administration/macos-user-management.md) - Instructions on adding, modifying, and managing user accounts in macOS.
+- [Network Configuration Basics](system-administration/network-setup.md) - Best practices for setting up network services and securing your network.
 
 ## Hypervisors
 
