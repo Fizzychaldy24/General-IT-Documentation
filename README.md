@@ -85,10 +85,8 @@ This repository also contains troubleshooting documentation for common IT proble
 - **Disk Space Problems**: How to identify and resolve low disk space issues.
 - **Slow Computer Performance**: Tips and tools for diagnosing performance issues.
 
-#### Resources:
-- [Troubleshooting Network Issues](troubleshooting-guides/network-issues.md) - Guide for diagnosing and fixing network connectivity problems.
-- [Fixing Low Disk Space](troubleshooting-guides/disk-space.md) - How to free up space on your system and prevent future issues.
-- [Improving System Performance](troubleshooting-guides/system-performance.md) - Steps to troubleshoot and optimize system speed.
+#### Documentation:
+- [Troubleshooting Guides](General-IT-Documentation/Troubleshooting%20Guides/)
 
 ## How to Use
 
