@@ -11,6 +11,7 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 - [Hypervisors](#hypervisors)
 - [Ticketing Systems](#ticketing-systems)
 - [Web Hosting](#web-hosting)
+- [Scripts](#scripts)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -52,14 +53,10 @@ This section contains useful guides on managing and configuring systems, includi
 ### Virtualization Platforms Supported:
 - **VMware vSphere/ESXi**: Documentation on installation, setup, and management.
 - **Microsoft Hyper-V**: Guides for installation, configuration, and troubleshooting virtual machines.
-- **Proxmox**: Best practices and configuration examples for deploying and managing virtual environments.
-- **VirtualBox**: Guide for installing and configuring VirtualBox for virtualization.
-
+  
 #### Resources:
 - [Hyper-V Setup Guide](hypervisors/hyperv-setup.md) - Steps for installing and configuring Hyper-V on Windows Server.
 - [VMware vSphere Best Practices](hypervisors/vmware-best-practices.md) - Recommended configurations for optimal performance.
-- [Proxmox Configuration](hypervisors/proxmox-configuration.md) - How to set up and manage virtual machines on Proxmox.
-- [VirtualBox Setup Guide](hypervisors/virtualbox-setup.md) - Guide for installing and configuring VirtualBox for virtualization.
 
 ## Ticketing Systems
 
@@ -88,6 +85,22 @@ This section covers how to host websites on different servers, including setting
 - [Apache Web Server Setup](web-hosting/apache-setup.md) - A guide to installing and configuring Apache for web hosting.
 - [NGINX SSL Configuration](web-hosting/nginx-ssl.md) - Step-by-step instructions for setting up SSL certificates on NGINX.
 - [AWS Web Hosting Guide](web-hosting/aws-web-hosting.md) - How to host a website on AWS, including EC2 instance setup and domain configuration.
+
+## Scripts
+
+This section provides a collection of useful scripts for automating IT tasks, system administration, troubleshooting, and more. These scripts are designed to simplify and speed up common IT operations across different platforms and environments.
+
+#### Examples:
+- **Linux User Management Script**: A Bash script for adding, modifying, and deleting user accounts.
+- **Windows Service Status Checker**: PowerShell script to check the status of critical services on Windows servers.
+- **Network Troubleshooting Script**: A Python script that automates the process of diagnosing network connectivity issues.
+
+#### Resources:
+- [Linux User Management Script](scripts/linux-user-management.sh) - A script to manage user accounts in Linux.
+- [Windows Service Status Checker](scripts/windows-service-check.ps1) - PowerShell script to check the status of services on Windows machines.
+- [Network Troubleshooting Script](scripts/network-troubleshooting.py) - A Python script that checks network connectivity and generates a report.
+
+
 
 ## How to Use
 
