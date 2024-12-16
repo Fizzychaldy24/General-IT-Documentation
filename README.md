@@ -34,18 +34,18 @@ This repository also contains troubleshooting documentation for common IT proble
 
 ## System Administration
 
-This section contains useful guides on managing and configuring systems, including Linux, Windows, and macOS environments, network configuration, and system security.
+This section contains useful guides on managing and configuring systems, including **Linux**, **Windows**, **macOS** environments, network configuration, and system security.
 
 ### Topics Include:
 - **Linux Administration**: User management, service configuration, and shell scripting.
 - **Windows Server Administration**: Active Directory, DNS, DHCP, and PowerShell scripts.
-- **macOS Administration**: User management, system configuration, and automation with AppleScript and Terminal.
+- **macOS Administration**: User management, system preferences, and security settings.
 - **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
 
 #### Resources:
-- [Linux User Management](system-administration/linux-user-management.md) - How to add, modify, and manage users in a Linux environment.
-- [Windows Server Active Directory](system-administration/windows-active-directory.md) - Guide to setting up and managing Active Directory on Windows Server.
-- [macOS System Administration](system-administration/macos-system-administration.md) - A comprehensive guide to user management, system configuration, and automation on macOS.
+- [Linux User Management](System%20Administration/Linux%20Administration/Linux%20User%20Management.md) - How to add, modify, and manage users in a Linux environment.
+- [macOS User Management](system-administration/macos-user-management.md) - Instructions on adding, modifying, and managing user accounts in macOS.
+- [Windows Active Directory](System%20Administration/Windows%20Administration/README.md) - Guide to installing, managing users, groups, Group Policies, trusts, replication, and troubleshooting in AD.
 - [Network Configuration Basics](system-administration/network-setup.md) - Best practices for setting up network services and securing your network.
 
 ## Hypervisors
@@ -95,7 +95,7 @@ This section covers how to host websites on different servers, including setting
 1. **Clone the Repository**:
    To get started, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Fizzychaldy24/General-IT-Documentation.git
 
 ## Contributing
 
