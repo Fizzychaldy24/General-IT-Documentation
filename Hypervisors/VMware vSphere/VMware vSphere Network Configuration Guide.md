@@ -6,7 +6,7 @@ This guide provides instructions for configuring and managing network settings i
 ---
 
 ## Table of Contents
-1. [Setting Up Virtual Switches](#1.%20setting-up-virtual-switches)
+1. [Setting Up Virtual Switches](#step-1-create-a-new-virtual-switch)
 2. [Configuring Network Adapters](#configuring-network-adapters)
 3. [Setting Up VLANs](#setting-up-vlans)
 4. [Troubleshooting Network Issues](#troubleshooting-network-issues)
