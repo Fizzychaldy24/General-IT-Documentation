@@ -1,16 +1,15 @@
-## System Administration - macOS
+# System Administration - macOS
 
-This section contains essential guides for managing and configuring macOS systems. It covers important tasks such as user management, system settings, and security configuration, which are crucial for macOS administrators.
+This section contains useful guides on managing and configuring **macOS** systems. The content will help you understand essential system administration tasks, including user management, system settings configuration, and file permissions management.
 
-### Topics Include:
+## Topics Include:
 
-#### macOS Administration
-- **User Management**: Learn how to add, modify, and manage user accounts in macOS.
-- **System Settings Configuration**: Instructions on configuring macOS system settings, network preferences, and security settings.
-- **File and Folder Permissions**: Understand how to manage file access and set user permissions on macOS.
+### macOS Administration
+- **User Management**: Learn how to add, modify, and manage users in a macOS environment.
+- **System Settings Configuration**: Instructions on configuring system settings like network preferences, security configurations, and accessibility options.
+- **File & Folder Permissions**: Understanding how to manage file access and set user permissions in macOS.
 
-### Resources:
-
-- **macOS User Management**: A comprehensive guide on adding, modifying, and deleting user accounts on macOS, along with assigning appropriate permissions.
-- **macOS System Settings**: Learn how to configure system preferences, including network settings, security settings, and accessibility options.
-- **macOS File & Folder Permissions**: A guide on managing file and folder access rights to ensure appropriate user permissions.
+#### Resources:
+- [macOS User Management](system-administration/macos-user-management.md) - A guide on how to add, modify, and manage users in macOS.
+- [macOS System Settings](system-administration/macos-system-settings.md) - Learn how to configure macOS system preferences, including network and security settings.
+- [macOS File & Folder Permissions](system-administration/macos-file-permissions.md) - A guide to managing file and folder access rights on macOS.
