@@ -101,20 +101,6 @@ This section provides guides and best practices for setting up and configuring t
 - [Zendesk Ticket Workflow](ticketing-systems/zendesk-workflow.md) - How to streamline your ticket management process with workflows in Zendesk.
 - [Freshservice Configuration](ticketing-systems/freshservice-config.md) - Guide to configuring Freshservice for efficient incident and change management.
 
-## Web Hosting
-
-This section covers how to host websites on different servers, including setting up web servers, managing domains, and troubleshooting common hosting issues.
-
-### Topics Covered:
-- **Apache HTTP Server**: Configuration, performance tuning, and security setup.
-- **NGINX**: Configuring reverse proxies, load balancing, and SSL.
-- **Web Hosting on Cloud Providers (AWS, Azure, Google Cloud)**: How to set up virtual machines, manage DNS, and deploy websites.
-
-#### Resources:
-- [Apache Web Server Setup](web-hosting/apache-setup.md) - A guide to installing and configuring Apache for web hosting.
-- [NGINX SSL Configuration](web-hosting/nginx-ssl.md) - Step-by-step instructions for setting up SSL certificates on NGINX.
-- [AWS Web Hosting Guide](web-hosting/aws-web-hosting.md) - How to host a website on AWS, including EC2 instance setup and domain configuration.
-
 ## Scripts
 
 This section provides a collection of useful scripts for automating IT tasks, system administration, troubleshooting, and more. These scripts are designed to simplify and speed up common IT operations across different platforms and environments.
@@ -128,8 +114,6 @@ This section provides a collection of useful scripts for automating IT tasks, sy
 - [Linux User Management Script](scripts/linux-user-management.sh) - A script to manage user accounts in Linux.
 - [Windows Service Status Checker](scripts/windows-service-check.ps1) - PowerShell script to check the status of services on Windows machines.
 - [Network Troubleshooting Script](scripts/network-troubleshooting.py) - A Python script that checks network connectivity and generates a report.
-
-
 
 ## How to Use
 
