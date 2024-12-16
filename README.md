@@ -95,7 +95,7 @@ This section covers how to host websites on different servers, including setting
 1. **Clone the Repository**:
    To get started, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Fizzychaldy24/General-IT-Documentation.git
 
 ## Contributing
 
