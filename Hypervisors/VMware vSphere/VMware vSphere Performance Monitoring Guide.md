@@ -7,9 +7,9 @@ This guide provides helpdesk staff with the tools and techniques to monitor the 
 
 ## Table of Contents
 
-1. [Checking VM Health](#checking-vm-health)
-2. [Troubleshooting Slow VM Performance](#troubleshooting-slow-vm-performance)
-3. [Using VM Monitoring Tools](#using-vm-monitoring-tools)
+1. [Checking VM Health](#1-checking-vm-health)
+2. [Troubleshooting Slow VM Performance](#2-troubleshooting-slow-vm-performance)
+3. [Using VM Monitoring Tools](#3-using-vm-monitoring-tools)
 
 ---
 
