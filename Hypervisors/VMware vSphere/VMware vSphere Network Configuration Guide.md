@@ -6,11 +6,10 @@ This guide provides instructions for configuring and managing network settings i
 ---
 
 ## Table of Contents
-1. [Setting Up Virtual Switches](#step-1-create-a-new-virtual-switch)
-2. [Configuring Network Adapters](#2.-Configuring-Network-Adapters)
-3. [Setting Up VLANs](#Step-2:-setting-up-vlans)
+1. [Setting Up Virtual Switches](#1.-setting-up-virtual-switches)
+2. [Configuring Network Adapters](#configuring-network-adapters)
+3. [Setting Up VLANs](#setting-up-vlans)
 4. [Troubleshooting Network Issues](#troubleshooting-network-issues)
-
 
 ---
 
@@ -112,4 +111,19 @@ If VMs are unable to communicate with each other or external networks, verify th
 - **VLAN Tagging**: Ensure the correct **VLAN ID** is configured for both the virtual switch and the VM network adapter.
 - **Physical Switch Configuration**: Check that the physical switch is correctly configured to pass VLAN traffic (i.e., ensure that the port connecting the ESXi host is a trunk port with the correct VLANs allowed).
 
-### Step 3: Networ
+### Step 3: Network Traffic Issues
+
+- **Check Physical NICs**: Ensure that the physical NICs on the ESXi host are functioning properly. Use tools like **esxcli** or the **vSphere Client** to check the status of network adapters.
+- **Ping Test**: Perform a **ping test** between VMs and between the host and the external network to check for packet loss or latency issues.
+- **Check for Network Loops**: Ensure that there are no network loops in your virtual network, as they can cause traffic congestion and outages.
+
+### Step 4: Review Logs
+
+- **ESXi Host Logs**: Check the **/var/log/vmkernel.log** and **/var/log/hostd.log** for any errors related to networking issues.
+- **VMware vCenter Logs**: If you're using vCenter, also check the vCenter server logs for additional insights.
+
+---
+
+## Conclusion
+
+This guide provided a detailed walkthrough for configuring networking in VMware vSphere environments, covering topics such as setting up virtual switches, configuring network adapters for virtual machines, setting up VLANs, and troubleshooting common network issues. By following these steps, administrators can ensure a reliable and efficient network setup, optimizing performance and minimizing connectivity problems in their VMware infrastructure.
