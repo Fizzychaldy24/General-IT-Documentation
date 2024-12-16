@@ -7,9 +7,9 @@ This guide covers the key storage management tasks within VMware vSphere and ESX
 
 ## Table of Contents
 
-1. [Managing Virtual Disk Files](#managing-virtual-disk-files)
-2. [Adding and Expanding Storage](#adding-and-expanding-storage)
-3. [Storage Troubleshooting](#storage-troubleshooting)
+1. [Managing Virtual Disk Files](#1-managing-virtual-disk-files)
+2. [Adding and Expanding Storage](#2-adding-and-expanding-storage)
+3. [Storage Troubleshooting](#3-storage-troubleshooting)
 
 ---
 
