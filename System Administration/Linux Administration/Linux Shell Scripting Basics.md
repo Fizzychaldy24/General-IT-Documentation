@@ -177,3 +177,22 @@ done
 
 5. `done`  
    Marks the end of the loop.
+# Functions
+
+Functions in shell scripts allow you to group commands into reusable blocks.
+
+## Defining a Function:
+
+```bash
+my_function() {
+    echo "This is a function!"
+}
+```
+
+### Calling a Function in Shell Scripting
+
+To call a function in shell scripting, you simply write the function's name followed by any required arguments (if any). For example:
+
+```bash
+my_function
+
