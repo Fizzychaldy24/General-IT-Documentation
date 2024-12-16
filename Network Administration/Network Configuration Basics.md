@@ -85,6 +85,41 @@ Regular monitoring of network traffic is essential for detecting and responding 
 
 Even with careful configuration, network issues can arise. Here are some common troubleshooting steps:
 
-1. **Ping Test**: Use `ping` to check connectivity between devices. For example:
-   ```bash
-   ping 192.168.1.1
+### 1. **Ping Test**:
+Use `ping` to check connectivity between devices. For example:
+
+```bash
+ping 192.168.1.1
+```
+
+### 2. **Traceroute**:
+Use `traceroute` (or `tracert` on Windows) to track the path data takes from your device to a destination:
+
+```bash
+traceroute www.example.com
+```
+
+### 3. **Check IP Configuration**:
+Ensure that devices have correct IP addresses and are on the same subnet. Use the `ipconfig` or `ifconfig` commands to verify network settings.
+
+```bash
+ipconfig  # On Windows
+ifconfig  # On macOS/Linux
+```
+
+### 4. **DNS Issues**:
+If you can’t access a website by domain name, check if it’s a DNS problem. Use `nslookup` to verify DNS resolution:
+
+```bash
+nslookup www.example.com
+```
+
+### 5. **Firewall Issues**:
+Ensure that the firewall isn’t blocking necessary traffic. Check for blocked ports and adjust firewall rules as needed.
+
+### 6. **Bandwidth Issues**:
+If network performance is slow, check for network congestion or hardware limitations. Use tools like `iperf` to measure network bandwidth.
+
+```bash
+iperf -c <server_address>
+```
