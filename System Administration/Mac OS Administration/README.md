@@ -10,7 +10,7 @@ This section contains useful guides on managing and configuring **macOS** system
 - **File & Folder Permissions**: Understanding how to manage file access and set user permissions in macOS.
 
 #### Resources:
-- [macOS User Management](system-administration/macos-user-management.md) - A guide on how to add, modify, and manage users in macOS.
+- [macOS User Management](MacOS%20File%20&%20Folder%20Permissions.md) - A guide on how to add, modify, and manage users in macOS.
 - [macOS System Settings]() - Learn how to configure macOS system preferences, including network and security settings.
 - [macOS File & Folder Permissions](System%20Administration/Mac%20OS%20Administration/macOS%20File%20&%20Folder%20Permissions.md) - A guide to managing file and folder access rights on macOS.
 
