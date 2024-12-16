@@ -6,9 +6,9 @@ This document provides helpdesk staff with the necessary steps to monitor the he
 ---
 
 ## Table of Contents
-1. [Monitoring VM Performance](#monitoring-vm-performance)
-2. [Troubleshooting Slow VM Performance](#troubleshooting-slow-vm-performance)
-3. [Using Monitoring Tools](#using-monitoring-tools)
+1. [Monitoring VM Performance](#1-monitoring-vm-performance)
+2. [Troubleshooting Slow VM Performance](#2-troubleshooting-slow-vm-performance)
+3. [Using Monitoring Tools](#3-using-monitoring-tools)
 
 ---
 
