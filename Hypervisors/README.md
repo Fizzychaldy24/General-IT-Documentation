@@ -19,7 +19,7 @@ This section contains useful guides on managing and configuring **Hyper-V** and 
 ## Resources:
 
 **Hyper-V:**
-- [Hyper-V Network Configuration and Troubleshooting Guide](#Hypervisors/Hyper-V/Hyper-V-Network-Configuration-and-Troubleshooting-Guide.md)
+- [Hyper-V Network Configuration and Troubleshooting Guide](#Hypervisors/Hyper-V/Hyper-V-Network%20Configuration%20and%20Troubleshooting%20Guide.md)
 - [Hyper-V Performance Monitoring and Troubleshooting Guide](#hyper-v-performance-monitoring-and-troubleshooting)
 - [Hyper-V Storage Management Guide](#hyper-v-storage-management)
 - [Hyper-V VM Creation and Management Guide](#hyper-v-vm-creation-and-management)
