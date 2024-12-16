@@ -27,7 +27,7 @@ This section contains useful guides on managing and configuring **Hyper-V** and 
 **VMware vSphere:**
 - [VMware vSphere Network Configuration Guide](#vmware-vsphere-network-configuration)
 - [VMware vSphere Performance Monitoring Guide](#vmware-vsphere-performance-monitoring)
-- [VMware vSphere Storage Management Guide](#VMware%20vSphere)
+- [VMware vSphere Storage Management Guide](#Hypervisors/VMware%20vSphere)
 - [VMware vSphere VM Creation Guide](#vmware-vsphere-vm-creation)
 
 These guides will help you efficiently manage and troubleshoot your **Hyper-V** and **VMware vSphere** environments, ensuring you can optimize networking, performance, storage, and VM management.
