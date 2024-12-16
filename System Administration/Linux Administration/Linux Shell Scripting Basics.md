@@ -69,8 +69,8 @@ Variables allow you to store data to use later in your script. You can also capt
 ### Defining variables:
 
 ```bash
-my_variable="Hello, Linux!"
-echo $my_variable
+my_variable="Hello, Linux!"  # Define a variable
+echo $my_variable  # Display the value of the variable
 ```
 my_variable="Hello, Linux!": This creates a variable named my_variable and assigns it the value "Hello, Linux!".
 echo $my_variable: The echo command prints the value of my_variable to the screen. The $ sign before the variable name is used to access the value stored in the variable.
@@ -227,7 +227,7 @@ Errors may occur while working with shell scripts. Here’s how to handle them e
 Use the `-x` option to debug a script and view each command as it is executed:
 
 ```bash
-bash -x my_first_script.sh
+bash -x my_first_script.sh  # Debugs the script and shows each command as it runs
 ```
 2. **Exit Status:**
 Every command in Linux returns an `exit` status (`0` for success, `non-zero` for failure). You can check the exit status with:
