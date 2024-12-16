@@ -6,14 +6,14 @@ This guide provides instructions for configuring and managing network settings i
 ---
 
 ## Table of Contents
-1. [Setting Up Virtual Switches](#setting-up-virtual-switches)
-2. [Configuring Network Adapters](#configuring-network-adapters)
+1. [Setting Up Virtual Switches](#1-setting-up-virtual-switches)
+2. [Configuring Network Adapters](#2-configuring-network-adapters)
 3. [Setting Up VLANs](#3-setting-up-vlans)
-4. [Troubleshooting Network Issues](#troubleshooting-network-issues)
+4. [Troubleshooting Network Issues](#4-troubleshooting-network-issues)
 
 ---
 
-## Setting Up Virtual Switches
+## 1. Setting Up Virtual Switches
 
 Virtual switches in VMware vSphere act as virtual network hubs, enabling communication between VMs and the external network. Here’s how to create and configure virtual switches.
 
@@ -39,7 +39,7 @@ Once the virtual switch is created, you may need to adjust specific settings:
 
 ---
 
-## Configuring Network Adapters
+## 2. Configuring Network Adapters
 
 Network adapters are virtual devices that connect VMs to virtual networks. To configure network adapters for VMs, follow these steps:
 
