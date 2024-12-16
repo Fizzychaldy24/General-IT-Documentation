@@ -6,9 +6,9 @@ This guide provides detailed instructions for creating, configuring, and managin
 ---
 
 ## Table of Contents
-1. [Creating a New VM](#creating-a-New-VM)
-2. [Configuring VM Resources](#Configuring-VM-Resources)
-3. [Managing VMs](#Managing-VMs)
+1. [Creating a New VM](#creating-a-new-vm)
+2. [Configuring VM Resources](#configuring-vm-resources)
+3. [Managing VMs](#managing-vms)
 
 ---
 
@@ -36,7 +36,7 @@ This section provides step-by-step instructions for creating a new virtual machi
      - **Configure Network**: Select the virtual network adapter to connect the VM to the network.
 
 4. **Select a Virtual Hard Disk (VHD):**
-   - You will be prompted to create a new virtual hard disk (VHD), or use an existing one. Choose **Create a virtual hard disk**.
+   - You will be prompted to create a new virtual hard disk (VHD) or use an existing one. Choose **Create a virtual hard disk**.
    - Set the size of the virtual hard disk and specify the location where the VHD should be stored.
 
 5. **Install Operating System:**
