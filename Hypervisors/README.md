@@ -21,7 +21,7 @@ This section contains useful guides on managing and configuring **Hyper-V** and 
 **Hyper-V:**
 - [Hyper-V Network Configuration and Troubleshooting Guide](#Hyper-V/Hyper-V%20Network%20Configuration%20and%20Troubleshooting%20Guide.md)
 - [Hyper-V Performance Monitoring and Troubleshooting Guide](#hyper-v-performance-monitoring-and-troubleshooting)
-- [Hyper-V Storage Management Guide](#hyper-v-storage-management)
+- [Hyper-V Storage Management Guide](#Hyper-V/Hyper-V%20Storage%20Management%20Guide)
 - [Hyper-V VM Creation and Management Guide](#hyper-v-vm-creation-and-management)
 
 **VMware vSphere:**
