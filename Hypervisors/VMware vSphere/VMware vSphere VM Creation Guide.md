@@ -8,8 +8,8 @@ This guide provides step-by-step instructions for creating, configuring, and man
 ## Table of Contents
 
 1. [Download and Installation](#1-download-and-installation)
-2. [Creating a New VM](#2=creating-a-new-vm)
-3. [Configuring VM Resources](#3=configuring-vm-resources)
+2. [Creating a New VM](#2-creating-a-new-vm)
+3. [Configuring VM Resources](#3-configuring-vm-resources)
 4. [Setting Up Network Configuration](#4-setting-up-network-configuration)
 
 ---
