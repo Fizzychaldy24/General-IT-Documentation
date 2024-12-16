@@ -45,7 +45,7 @@ This section contains useful guides on managing and configuring systems, includi
 #### Resources:
 - [Linux User Management](System%20Administration/Linux%20Administration/Linux%20User%20Management.md) - How to add, modify, and manage users in a Linux environment.
 - [macOS User Management](system-administration/macos-user-management.md) - Instructions on adding, modifying, and managing user accounts in macOS.
-- [Windows Active Directory](System%20Administration/Windows%20Administration/README.md) - Guide to installing, managing users, groups, Group Policies, trusts, replication, and troubleshooting in AD.
+- [Windows AD](System%20Administration/Windows%20Administration/README.md) - Guide to installing, managing users, groups, Group Policies, trusts, replication, and troubleshooting in AD.
 - [Network Configuration Basics](system-administration/network-setup.md) - Best practices for setting up network services and securing your network.
 
 ## Hypervisors
@@ -95,7 +95,7 @@ This section covers how to host websites on different servers, including setting
 1. **Clone the Repository**:
    To get started, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Fizzychaldy24/General-IT-Documentation.git
 
 ## Contributing
 
