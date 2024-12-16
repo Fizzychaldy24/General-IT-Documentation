@@ -6,10 +6,10 @@ This guide provides detailed instructions for creating, configuring, and managin
 ---
 
 ## Table of Contents
-1. [Installing Hyper-V](#installing-hyper-v)
-2. [Creating a New VM](#creating-a-new-vm)
-3. [Configuring VM Resources](#configuring-vm-resources)
-4. [Managing VMs](#managing-vms)
+1. [Installing Hyper-V](#1-installing-hyper-v)
+2. [Creating a New VM](#2-creating-a-new-vm)
+3. [Configuring VM Resources](#3-configuring-vm-resources)
+4. [Managing VMs](#4-managing-vms)
 
 ---
 
