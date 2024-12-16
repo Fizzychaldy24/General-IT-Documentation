@@ -112,3 +112,34 @@ To maintain the security and integrity of your system, it's important to follow 
 - **Regularly Audit Permissions**: Periodically check the permissions of important files and folders to ensure that only authorized users have access.
 
 - **Protect Sensitive Files**: For files containing sensitive information, use FileVault to encrypt your entire disk and set strict permissions.
+
+## Troubleshooting File & Folder Permissions
+
+If you're experiencing issues with file and folder access, here are a few troubleshooting steps:
+
+### 1. Check Ownership:
+Sometimes, the issue can arise from incorrect file ownership. Use `ls -l` to check the owner and group of the file or folder, and if necessary, change the owner with the `chown` command.
+
+```bash
+ls -l /path/to/file_or_folder
+sudo chown username:groupname /path/to/file_or_folder
+```
+
+### 2. Reset Permissions:
+If file permissions are incorrect or have become inconsistent, you can reset them to default using the `chmod` command:
+
+```bash
+chmod -R 755 /path/to/folder
+```
+
+This command recursively sets the permissions for all files and subfolders inside the folder.
+
+### 3. Repair Permissions Using Disk Utility:
+If you're unable to resolve permission issues manually, you can use Disk Utility to repair permissions on your system. While macOS no longer includes a specific "Repair Permissions" tool, Disk Utility can still be used to check and fix file system issues:
+
+1. Open **Disk Utility** from **Applications > Utilities**.
+2. Select your Mac's hard drive.
+3. Click **First Aid** to verify and repair disk permissions.
+
+### 4. Check for Locked Files:
+Files and folders can be locked, preventing modifications. You can unlock a file by right-clicking it, selecting **Get Info**, and unchecking the **Locked** box.
