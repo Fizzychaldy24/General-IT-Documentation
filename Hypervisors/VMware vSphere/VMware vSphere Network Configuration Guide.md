@@ -7,7 +7,7 @@ This guide provides instructions for configuring and managing network settings i
 
 ## Table of Contents
 1. [Setting Up Virtual Switches](#setting-up-virtual-switches)
-2. [Configuring Network Adapters](#2.configuring-network-adapters)
+2. [Configuring Network Adapters](#configuring-network-adapters)
 3. [Setting Up VLANs](#setting-up-vlans)
 4. [Troubleshooting Network Issues](#troubleshooting-network-issues)
 
@@ -39,7 +39,7 @@ Once the virtual switch is created, you may need to adjust specific settings:
 
 ---
 
-## 2. Configuring Network Adapters
+## Configuring Network Adapters
 
 Network adapters are virtual devices that connect VMs to virtual networks. To configure network adapters for VMs, follow these steps:
 
