@@ -13,7 +13,7 @@ This section covers the management and configuration of **Active Directory** on 
 Q
 #### Resources:
 - [Active Directory Setup](system-administration/windows-active-directory-setup.md) - A step-by-step guide to installing and configuring Active Directory Domain Services on Windows Server.
-- [User and Group Management in AD](system-administration/windows-administration/user-and-group-management-in-ad.md) - Instructions for managing user and group accounts in Active Directory.
+- [User and Group Management in AD](user-and-group-management-in-ad.md) - Instructions for managing user and group accounts in Active Directory.
 - [Managing Group Policies](system-administration/windows-administration/user-and-group-management-in-ad.md) - How to configure and manage Group Policy Objects for AD environments.
 - [Active Directory Replication Troubleshooting](system-administration/windows-active-directory-replication.md) - A guide for troubleshooting Active Directory replication issues between Domain Controllers.
 
