@@ -6,9 +6,9 @@ This document provides guidance on managing virtual disk storage (VHD/VHDX) with
 ---
 
 ## Table of Contents
-1. [Managing Virtual Hard Disks (VHD/VHDX)](#managing-virtual-hard-disks-vhdvhdx)
-2. [Adding and Expanding Storage](#adding-and-expanding-storage)
-3. [Storage Troubleshooting](#storage-troubleshooting)
+1. [Managing Virtual Hard Disks (VHD/VHDX)](#1-managing-virtual-hard-disks-vhdvhdx)
+2. [Adding and Expanding Storage](#2-adding-and-expanding-storage)
+3. [Storage Troubleshooting](#3-storage-troubleshooting)
 
 ---
 
