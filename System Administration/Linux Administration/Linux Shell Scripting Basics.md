@@ -195,4 +195,79 @@ To call a function in shell scripting, you simply write the function's name foll
 
 ```bash
 my_function
+```
 
+# Executing Shell Scripts
+
+To run a shell script:
+
+1. **Ensure the script has executable permissions:**
+
+```bash
+chmod +x my_first_script.sh
+```
+
+2. **Execute the script:**
+
+```bash
+./my_first_script.sh
+```
+
+3. **This should output:**
+
+```bash
+Hello, World!
+```
+
+# Debugging and Error Handling
+
+Errors may occur while working with shell scripts. Here’s how to handle them effectively:
+
+1. **Debugging:**  
+Use the `-x` option to debug a script and view each command as it is executed:
+
+```bash
+bash -x my_first_script.sh
+```
+2. **Exit Status:**
+Every command in Linux returns an `exit` status (`0` for success, `non-zero` for failure). You can check the exit status with:
+
+```bash
+echo $?
+```
+
+3. **Error Handling:**
+Use `exit` to terminate a script or return a specific status code.
+
+```bash
+if [ ! -f "myfile.txt" ]; then
+    echo "File not found!"
+    exit 1
+fi
+```
+
+# Best Practices for Shell Scripting
+
+1. **Comment Your Code:**  
+   Use comments (`#`) to explain complex or important parts of your script.
+
+2. **Use Descriptive Variable Names:**  
+   Clear variable names enhance readability and maintainability.
+
+3. **Test Your Scripts Thoroughly:**  
+   Before deploying a script on a production system, test it in a safe environment to prevent accidental system damage.
+
+4. **Use `set -e`:**  
+   Add `set -e` at the beginning of your script to ensure it stops if any command fails.
+
+5. **Break Down Large Scripts:**  
+   Use functions to divide your script into smaller, reusable blocks of code.
+
+6. **Handle Errors Gracefully:**  
+   Always check for potential errors and handle them appropriately, providing useful messages when necessary.
+
+# Conclusion
+
+Learning shell scripting is an invaluable skill for Linux system administrators. It allows you to automate routine tasks, streamline system maintenance, and improve efficiency. By mastering basic concepts like variables, conditionals, loops, and functions, you can create powerful scripts that simplify workflows and save time.
+
+As you gain experience, explore more advanced topics like arrays, input/output redirection, and file handling. With practice, you'll become proficient in writing scripts that make managing Linux systems more efficient and less error-prone.
