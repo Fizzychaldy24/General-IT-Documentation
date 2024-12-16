@@ -53,10 +53,22 @@ This section contains useful guides on managing and configuring systems, includi
 ### Virtualization Platforms Supported:
 - **VMware vSphere/ESXi**: Documentation on installation, setup, and management.
 - **Microsoft Hyper-V**: Guides for installation, configuration, and troubleshooting virtual machines.
+
+**Key Tasks for Helpdesk:**
+
+    VMware vSphere/ESXi:
+        How to create and manage virtual machines (VMs).
+        Monitoring VM health and performance.
+        Managing storage and networking for VMs.
+        
+    Microsoft Hyper-V:
+        How to configure and manage Hyper-V environments.
+        Creating, starting, and stopping VMs.
+        Troubleshooting VM connectivity and performance issues.
   
 #### Resources:
-- [Hyper-V Setup Guide](hypervisors/hyperv-setup.md) - Steps for installing and configuring Hyper-V on Windows Server.
-- [VMware vSphere Best Practices](hypervisors/vmware-best-practices.md) - Recommended configurations for optimal performance.
+- [Hyper-V Setup Guide](hypervisors/hyperv-setup.md) - Setup, installation, and management.
+- [VMware vSphere Best Practices](hypervisors/vmware-best-practices.md) - Setup, installation, and management.
 
 ## Ticketing Systems
 
