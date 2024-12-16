@@ -6,9 +6,9 @@ This guide provides detailed instructions for creating, configuring, and managin
 ---
 
 ## Table of Contents
-1. [Creating a New VM](#creating-a-new-vm)
-2. [Configuring VM Resources](#configuring-vm-resources)
-3. [Managing VMs](#managing-vms)
+1. [Creating a New VM](#creating-a-New-VM)
+2. [Configuring VM Resources](#Configuring-VM-Resources)
+3. [Managing VMs](#Managing-VMs)
 
 ---
 
