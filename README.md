@@ -6,7 +6,6 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Troubleshooting Guides](#troubleshooting-guides)
 - [System Administration](#system-administration)
 - [Hypervisors](#hypervisors)
