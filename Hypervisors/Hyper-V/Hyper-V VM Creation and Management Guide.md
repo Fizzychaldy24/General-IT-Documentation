@@ -6,13 +6,59 @@ This guide provides detailed instructions for creating, configuring, and managin
 ---
 
 ## Table of Contents
-1. [Creating a New VM](#creating-a-new-vm)
-2. [Configuring VM Resources](#configuring-vm-resources)
-3. [Managing VMs](#managing-vms)
+1. [Installing Hyper-V](#installing-hyper-v)
+2. [Creating a New VM](#creating-a-new-vm)
+3. [Configuring VM Resources](#configuring-vm-resources)
+4. [Managing VMs](#managing-vms)
 
 ---
 
-## 1. Creating a New VM
+## 1. Installing Hyper-V
+
+### Prerequisites
+- **Operating System**: Hyper-V can be installed on Windows Server (Standard or Datacenter editions) or Windows 10/11 Pro, Enterprise, or Education.
+- **System Requirements**:
+  - 64-bit processor with Second Level Address Translation (SLAT)
+  - 4 GB or more of RAM (for better performance, 8 GB or more is recommended)
+  - Virtualization must be enabled in BIOS/UEFI (usually labeled as Intel VT-x or AMD-V).
+
+### Installation Steps for Windows 10/11 (Professional, Enterprise, Education)
+
+1. **Enable Virtualization in BIOS/UEFI:**
+   - Reboot your system and enter BIOS/UEFI (usually by pressing **F2**, **F10**, or **Delete** during startup).
+   - Enable **Intel VT-x** or **AMD-V** under the CPU or Advanced settings.
+   - Save changes and exit.
+
+2. **Install Hyper-V via Windows Features:**
+   - Open **Control Panel** > **Programs** > **Turn Windows features on or off**.
+   - In the Windows Features window, check **Hyper-V** (this includes both **Hyper-V Management Tools** and **Hyper-V Platform**).
+   - Click **OK** to install the feature.
+   - After installation, restart your computer.
+
+3. **Enable Hyper-V using PowerShell (alternative method):**
+   - Open **PowerShell** as an administrator.
+   - Run the following command to install Hyper-V:
+     ```powershell
+     dism.exe /Online /Enable-Feature /FeatureName:Microsoft-Hyper-V-All /All /LimitAccess /Restart
+     ```
+
+4. **Verify Installation:**
+   - After your computer restarts, open **Hyper-V Manager** from the Start menu. If it opens without issues, Hyper-V is installed and ready to use.
+
+### Installation Steps for Windows Server
+
+1. **Install Hyper-V via Server Manager:**
+   - Open **Server Manager** and click on **Add roles and features**.
+   - In the **Roles** section, select **Hyper-V**.
+   - Continue through the wizard and install Hyper-V.
+   - Reboot the server when prompted.
+
+2. **Verify Installation:**
+   - Once the server restarts, open **Hyper-V Manager** from the Start menu to confirm that Hyper-V has been successfully installed.
+
+---
+
+## 2. Creating a New VM
 
 ### Purpose
 This section provides step-by-step instructions for creating a new virtual machine in Hyper-V Manager.
@@ -51,7 +97,7 @@ The VM will be listed in Hyper-V Manager, and you can now proceed with further c
 
 ---
 
-## 2. Configuring VM Resources
+## 3. Configuring VM Resources
 
 ### Purpose
 This section covers how to configure the CPU, memory, storage, and network resources for your virtual machine in Hyper-V.
@@ -85,7 +131,7 @@ Once all resources are configured, click **OK** to save the changes.
 
 ---
 
-## 3. Managing VMs
+## 4. Managing VMs
 
 ### Purpose
 This section covers common management tasks for virtual machines, such as starting, stopping, pausing, snapshotting, cloning, and migrating VMs.
