@@ -37,15 +37,15 @@ This repository also contains troubleshooting documentation for common IT proble
 This section contains useful guides on managing and configuring systems, including **Linux**, **Windows**, **macOS** environments, network configuration, and system security.
 
 ### Topics Include:
-- **Linux Administration**: User management, service configuration, and shell scripting.
-- **Windows Server Administration**: Active Directory, DNS, DHCP, and PowerShell scripts.
-- **macOS Administration**: User management, system preferences, and security settings.
+- **Linux Administration**: Service management, scripting, and user management in Linux environments.
+- **macOS Administration**: Managing system settings, file, and folder permissions on user accounts in macOS.
+- **Windows Active Directory**: Active Directory setup, user/group management, and troubleshooting.
 - **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
 
 #### Resources:
-- [Linux Administration](System%20Administration/Linux%20Administration/Linux-README.md) - How to add, modify, and manage users in a Linux environment.
-- [macOS Administrations](System%20Administration/Mac%20OS%20Administration/README.md) - Instructions on adding, modifying, and managing user accounts in macOS.
-- [Windows AD](System%20Administration/Windows%20Administration/README.md) - Guide to installing, managing users, groups, Group Policies, trusts, replication, and troubleshooting in AD.
+- [Linux Administration](System%20Administration/Linux%20Administration/Linux-README.md) - Service management, scripting, adding/removing users in Linux environments.
+- [macOS Administrations](System%20Administration/Mac%20OS%20Administration/README.md) - Instructions on managing system settings and user account file/folder permissions in macOS.
+- [Windows AD](System%20Administration/Windows%20Administration/README.md) - Active Directory Setup, user/group management, Group Policies, and replication troubleshooting.
 - [Network Configuration Basics](Network%20Administration/Network%20Configuration%20Basics.md) - Best practices for setting up network services and securing your network.
 
 ## Hypervisors
