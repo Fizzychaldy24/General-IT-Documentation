@@ -6,9 +6,9 @@ This document provides helpdesk staff with a step-by-step guide to configuring a
 ---
 
 ## Table of Contents
-1. [Setting Up Virtual Switches](#setting-up-virtual-switches)
-2. [Configuring Network Adapters](#configuring-network-adapters)
-3. [Troubleshooting Network Issues](#troubleshooting-network-issues)
+1. [Setting Up Virtual Switches](#1-setting-up-virtual-switches)
+2. [Configuring Network Adapters](#2-configuring-network-adapters)
+3. [Troubleshooting Network Issues](#3-troubleshooting-network-issues)
 
 ---
 
