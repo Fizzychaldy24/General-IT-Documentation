@@ -1,4 +1,4 @@
-[System Administration](../README.md)
+[General IT Documentation](../README.md)
 # Bash Scripts Collection
 
 ## Table of Contents
