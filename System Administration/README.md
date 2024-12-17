@@ -1,3 +1,4 @@
+General IT Documentation: [README.md](../README.md)
 # System Administration Documentation Index
 
 Welcome to the **System Administration Documentation**. Below is an organized index of topics for **Linux**, **Mac OS**, and **Windows Administration**. Each link will redirect you to the corresponding document for more detailed information.
