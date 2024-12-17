@@ -1,3 +1,4 @@
+[System Administration](../README.md)
 # Linux Shell Scripting Basics
 
 This guide provides an introduction to shell scripting for **Linux system administrators**. Shell scripting allows you to automate tasks, perform system maintenance, and handle repetitive tasks efficiently. Learning shell scripting is essential for improving your productivity as a system administrator.
