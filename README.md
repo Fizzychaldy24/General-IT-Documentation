@@ -89,7 +89,7 @@ This section provides a collection of useful scripts for automating IT tasks, sy
 - **PowerShell Creating and Running a Script**: A guide for creating and running PowerShell scripts, including setting execution policies and executing scripts in PowerShell.
 
 #### Resources:
-- [PowerShell and Linux Scripts Documentation](scripts/README.md) - User management, system info, network info, uptime, ping, and script creation for both Linux and Windows.
+- [PowerShell and Linux Scripts Documentation](Scripts/README.md) - User management, system info, network info, uptime, ping, and script creation for both Linux and Windows.
 
 ## How to Use
 
