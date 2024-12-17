@@ -7,24 +7,18 @@ This guide will show you how to create and run a basic PowerShell script on a Wi
 ## Table of Contents
 
 1. [Create a New PowerShell Script](#1-create-a-new-powershell-script)
-   - [Open PowerShell](#step-1-open-powershell)
-   - [Create a New File](#step-2-create-a-new-file)
-   - [Write Your Script](#step-3-write-your-script)
-   - [Save the Script](#step-4-save-the-script)
-
+   - [Step 1: Open PowerShell](#step-1-open-powershell)
+   - [Step 2: Create a New File](#step-2-create-a-new-file)
+   - [Step 3: Write Your Script](#step-3-write-your-script)
+   - [Step 4: Save the Script](#step-4-save-the-script)
 2. [Make the Script Executable](#2-make-the-script-executable)
-
 3. [Run the Script](#3-run-the-script)
-
 4. [Run the Script with PowerShell](#4-run-the-script-with-powershell)
-
 5. [Debugging and Testing the Script](#5-debugging-and-testing-the-script)
-
 6. [Additional Tips](#6-additional-tips)
    - [Comments](#comments)
    - [Variables](#variables)
    - [Loops and Conditions](#loops-and-conditions)
-
 7. [Conclusion](#conclusion)
 
 ---
