@@ -1,6 +1,5 @@
-# IT Troubleshooting Documentation
-
 General IT Documentation: [README.md](../README.md)
+# IT Troubleshooting Documentation
 
 ## Table of Contents
 1. [Internet Connection Issues](#1-internet-connection-issues)
