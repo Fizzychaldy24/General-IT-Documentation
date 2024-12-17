@@ -10,7 +10,6 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 - [System Administration](#system-administration)
 - [Hypervisors](#hypervisors)
 - [Ticketing Systems](#ticketing-systems)
-- [Web Hosting](#web-hosting)
 - [Scripts](#scripts)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
@@ -50,25 +49,15 @@ This section contains useful guides on managing and configuring systems, includi
 
 ## Hypervisors
 
+This section contains useful guides on managing and configuring Hyper-V and VMware vSphere environments. These guides will help you with essential tasks like network configuration, performance monitoring, storage management, and VM creation.
+
 ### Virtualization Platforms Supported:
 - **VMware vSphere/ESXi**: Documentation on installation, setup, and management.
 - **Microsoft Hyper-V**: Guides for installation, configuration, and troubleshooting virtual machines.
-
-**Key Tasks for Helpdesk:**
-
-    VMware vSphere/ESXi:
-        How to create and manage virtual machines (VMs).
-        Monitoring VM health and performance.
-        Managing storage and networking for VMs.
-        
-    Microsoft Hyper-V:
-        How to configure and manage Hyper-V environments.
-        Creating, starting, and stopping VMs.
-        Troubleshooting VM connectivity and performance issues.
   
 #### Resources:
-- [Hyper-V Setup Guide](hypervisors/hyperv-setup.md) - Setup, installation, and management.
-- [VMware vSphere Best Practices](hypervisors/vmware-best-practices.md) - Setup, installation, and management.
+- [Hyper-V Guide](hypervisors/hyperv-setup.md) - Setup, installation, and management.
+- [VMware vSphere Guide](hypervisors/vmware-best-practices.md) - Setup, installation, and management.
 
 ## Ticketing Systems
 
