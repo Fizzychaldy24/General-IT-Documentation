@@ -6,11 +6,12 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 
 ## Table of Contents
 
-- [Troubleshooting Guides](#troubleshooting-guides)
-- [System Administration](#system-administration)
 - [Hypervisors](#hypervisors)
-- [Ticketing Systems](#ticketing-systems)
+- [Network Administration](#network-administration)
 - [Scripts](#scripts)
+- [System Administration](#system-administration)
+- [Ticketing Systems](#ticketing-systems)
+- [Troubleshooting Guides](#troubleshooting-guides)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -19,12 +20,28 @@ Whether you are a helpdesk technician, system administrator, or IT specialist, y
 
 This repository provides various documentation and configuration guides that cover the essential aspects of managing IT infrastructure, including virtualization, web hosting, helpdesk systems, and more. The content is organized by topic to help guide IT professionals in resolving common issues and deploying best practices.
 
-## Troubleshooting Guides
+## Hypervisors
 
-This repository also contains troubleshooting documentation for common IT problems, including hardware, software, and network issues.
+This section contains useful guides on managing and configuring **Hyper-V** and **VMware vSphere** environments. These guides will help you with essential tasks like network configuration, performance monitoring, storage management, and VM creation.
 
-#### Documentation:
-- [Troubleshooting Guides](Troubleshooting%20Guides/IT%20Troubleshooting%20Documentation.md) - A comprehensive collection of guides designed to help you solve common IT problems related to networking, hardware, and system performance.
+### Virtualization Platforms Supported:
+
+#### Resources:
+- [Hyper-V/VMware vSphere Guide](Hypervisors/README.md): A comprehensive guide covering key configurations, management, and troubleshooting steps for both **Hyper-V** and **VMware vSphere** environments.
+
+## Network Administration
+
+This section includes guides for managing network infrastructure, configuration, and optimization, including both physical and virtual networks.
+
+#### Resources:
+- [Network Administration Guide](Network%20Administration/README.md) - Covers network management basics, routing, firewall configuration, and optimization techniques.
+
+## Scripts
+
+This section provides a collection of useful scripts for automating IT tasks, system administration, troubleshooting, and more. These scripts are designed to simplify and speed up common IT operations across different platforms and environments.
+
+#### Resources:
+- [PowerShell and Linux Scripts Documentation](Scripts/README.md) - User management, system info, network info, uptime, ping, and script creation for both Linux and Windows.
 
 ## System Administration
 
@@ -33,15 +50,6 @@ This section contains useful guides on managing and configuring systems, includi
 #### Resources:
 - [System Administration](System%20Administration/README.md) - A comprehensive guide covering **Linux**, **macOS**, **Windows** administration, and networking basics.
 
-## Hypervisors
-
-This section contains useful guides on managing and configuring **Hyper-V** and **VMware vSphere** environments. These guides will help you with essential tasks like network configuration, performance monitoring, storage management, and VM creation.
-
-### Virtualization Platforms Supported:
-  
-#### Resources:
-- [Hyper-V/VMware vSphere Guide](Hypervisors/README.md): A comprehensive guide covering key configurations, management, and troubleshooting steps for both **Hyper-V** and **VMware vSphere** environments.
-
 ## Ticketing Systems
 
 This section provides guides and best practices for setting up and configuring ticketing systems for IT helpdesk support.
@@ -49,12 +57,12 @@ This section provides guides and best practices for setting up and configuring t
 #### Resources:
 - [Jira Service Management, Zendesk, and Freshservice Documentation](Ticketing%20Systems/README.md) - Comprehensive guides covering ticket management, SLAs, automation, integrations, reporting, knowledge base setup, and troubleshooting for each platform, aimed at streamlining support processes and improving team efficiency.
 
-## Scripts
+## Troubleshooting Guides
 
-This section provides a collection of useful scripts for automating IT tasks, system administration, troubleshooting, and more. These scripts are designed to simplify and speed up common IT operations across different platforms and environments.
+This repository also contains troubleshooting documentation for common IT problems, including hardware, software, and network issues.
 
-#### Resources:
-- [PowerShell and Linux Scripts Documentation](Scripts/README.md) - User management, system info, network info, uptime, ping, and script creation for both Linux and Windows.
+#### Documentation:
+- [Troubleshooting Guides](Troubleshooting%20Guides/IT%20Troubleshooting%20Documentation.md) - A comprehensive collection of guides designed to help you solve common IT problems related to networking, hardware, and system performance.
 
 ## How to Use
 
