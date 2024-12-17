@@ -1,4 +1,4 @@
-Ticketing Systems:[README.md](../)
+Ticketing Systems:[README.md](../README)
 # Knowledge Base Integration and Troubleshooting
 
 ## Table of Contents
