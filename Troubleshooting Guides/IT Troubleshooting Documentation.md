@@ -1,7 +1,6 @@
 # IT Troubleshooting Documentation
 ---
 
----
 ## Table of Contents
 1. [Internet Connection Issues](#1-internet-connection-issues)
 2. [Printer Not Responding](#2-printer-not-responding)
