@@ -34,7 +34,7 @@ This section contains useful guides on managing and configuring **Hyper-V** and 
 This section includes guides for managing network infrastructure, configuration, and optimization, including both physical and virtual networks.
 
 #### Resources:
-- [Network Administration Guide](Network%20Administration/README.md) - Covers network management basics, routing, firewall configuration, and optimization techniques.
+- [Network Administration Guide](Network%20Administration/Network%20Configuration%20Basics.md) - Covers network management basics, routing, firewall configuration, and optimization techniques.
 
 ## Scripts
 
