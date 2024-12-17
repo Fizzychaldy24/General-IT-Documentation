@@ -1,4 +1,4 @@
-General IT Documentation: [README.md](../README.md)
+[General IT Documentation](../README.md)
 # Network Configuration Basics
 
 This guide provides an overview of **best practices for setting up network services** and **securing your network**. It covers the key elements needed to ensure a stable, efficient, and secure network environment.
