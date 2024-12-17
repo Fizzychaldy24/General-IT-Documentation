@@ -106,4 +106,3 @@ By setting up proper ticket management practices, workflows, and automation rule
 - **Ticket workflows** ensure that tickets progress through predefined steps in a consistent manner.
 - **Automation rules** help reduce manual work by automating tasks like ticket assignments, notifications, and escalations.
 
----
