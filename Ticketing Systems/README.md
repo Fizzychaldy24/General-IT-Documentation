@@ -79,9 +79,3 @@ Welcome to the Helpdesk Documentation for **Jira Service Management**, **Zendesk
 - **Navigation:** Click the links above to access detailed documentation on each topic.
 - **Search:** Use your text editor or browser's search feature to find specific information.
 - **Updates:** This documentation is regularly updated; ensure you are referencing the latest version.
-
----
-
-### License
-
-This documentation is provided under [Your License Name Here]. All rights reserved.
