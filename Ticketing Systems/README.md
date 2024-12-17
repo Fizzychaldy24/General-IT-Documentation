@@ -29,20 +29,20 @@ Welcome to the Helpdesk Documentation for **Jira Service Management**, **Zendesk
 
 ## Zendesk Documentation
 
-### 1. [Ticket Management, Routing, and Automation](docs/zendesk/ticket-management-routing-automation.md)
+### 1. [Ticket Management, Routing, and Automation](Zendesk/Ticket%20Management,%20Routing,%20and%20Automation.md)
    - **Topics Covered:**  
      - Creating and Managing Tickets  
      - Ticket Routing and Automations  
      - Customer Communication  
    - **Description:** Manage tickets, set up routing and automation rules, and learn best practices for responding to tickets across channels (email, chat, and calls).
 
-### 2. [Macros, Reporting, and Analytics](docs/zendesk/macros-reports-analytics.md)
+### 2. [Macros, Reporting, and Analytics](Zendesk/Macros,%20Reporting,%20and%20Analytics.md)
    - **Topics Covered:**  
      - Creating and Using Macros  
      - Reporting and Analytics  
    - **Description:** Learn to set up macros for repetitive tasks and use Zendesk's reporting tools to track performance, resolution times, and customer satisfaction.
 
-### 3. [Integrations and Troubleshooting](docs/zendesk/integrations-troubleshooting.md)
+### 3. [Integrations and Troubleshooting](Zendesk/Integrations%20and%20Troubleshooting.md)
    - **Topics Covered:**  
      - Integrating Zendesk with Other Tools  
      - Troubleshooting Zendesk  
@@ -52,20 +52,20 @@ Welcome to the Helpdesk Documentation for **Jira Service Management**, **Zendesk
 
 ## Freshservice Documentation
 
-### 1. [Incident and Change Management](docs/freshservice/incident-change-management.md)
+### 1. [Incident and Change Management](Freshservice/Incident%20and%20Change%20Management.md)
    - **Topics Covered:**  
      - Incident Management  
      - Change Management  
    - **Description:** Learn to create, manage, and close incidents and handle change requests, including setting up calendars and workflows.
 
-### 2. [Service Catalog, Automations, and SLAs](docs/freshservice/service-catalog-automations-slas.md)
+### 2. [Service Catalog, Automations, and SLAs](Freshservice/Service%20Catalog,%20Automations,%20and%20SLAs.md)
    - **Topics Covered:**  
      - Service Catalog Management  
      - Automations and Workflow Rules  
      - SLA Management  
    - **Description:** Configure service catalogs, set up automations, and define and enforce SLAs for timely responses and resolutions.
 
-### 3. [Reports, Dashboards, and Troubleshooting](docs/freshservice/reports-dashboards-troubleshooting.md)
+### 3. [Reports, Dashboards, and Troubleshooting](Freshservice/Reports,%20Dashboards,%20and%20Troubleshooting.md)
    - **Topics Covered:**  
      - Reports and Dashboards  
      - Troubleshooting Freshservice  
