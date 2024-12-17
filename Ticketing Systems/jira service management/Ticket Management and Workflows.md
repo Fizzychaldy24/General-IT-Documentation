@@ -107,5 +107,3 @@ By setting up proper ticket management practices, workflows, and automation rule
 - **Automation rules** help reduce manual work by automating tasks like ticket assignments, notifications, and escalations.
 
 ---
-
-Feel free to explore the links and resources for further details on each section, and start applying these strategies to streamline your ticket management process.
