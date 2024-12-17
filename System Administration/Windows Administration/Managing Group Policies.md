@@ -1,4 +1,4 @@
-[System Administration](../README.md)
+[General IT Documentation](../README.md)
 # Managing Group Policies
 
 Group Policy is a powerful tool for administrators to configure and manage the settings and permissions across users and computers in an Active Directory (AD) environment. It allows centralized management and configuration of operating systems, applications, and user settings. This guide will walk you through how to configure and manage **Group Policy Objects (GPOs)** in Active Directory.
