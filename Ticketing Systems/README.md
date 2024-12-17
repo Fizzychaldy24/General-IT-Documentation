@@ -19,7 +19,7 @@ Welcome to the Helpdesk Documentation for **Jira Service Management**, **Zendesk
      - Reports and Dashboards  
    - **Description:** Define SLAs to ensure timely responses and resolutions, and use reports and dashboards to track team performance and ticket progress.
 
-### 3. [Knowledge Base Integration and Troubleshooting](docs/jira/knowledge-base-troubleshooting.md)
+### 3. [Knowledge Base Integration and Troubleshooting](jira%20service%20management/Knowledge%20Base%20Integration%20and%20Troubleshooting.md)
    - **Topics Covered:**  
      - Knowledge Base Integration  
      - Troubleshooting Jira Service Management  
