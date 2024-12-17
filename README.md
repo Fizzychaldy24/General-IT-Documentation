@@ -43,7 +43,8 @@ This section contains useful guides on managing and configuring systems, includi
 
 #### Resources:
 - [System Administration](System%20Administration/README.md) - A comprehensive guide covering **Linux**, **macOS**, **Windows** administration, and networking basics.
-- [System Administration](System%20Administration/README.md) - A comprehensive guide covering **Linux**, **macOS**, **Windows** administration, networking services, and security best practices.
+
+- [Network Configuration Basics](Network%20Administration/Network%20Configuration%20Basics.md) - A guide covering best practices for setting up network services, IP addressing, DNS, DHCP, firewall configuration, and securing your network.
 
 ## Hypervisors
 
