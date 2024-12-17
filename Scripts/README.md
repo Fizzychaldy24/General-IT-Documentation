@@ -1,4 +1,4 @@
-[General IT Documentation](../README.md)
+[General IT Documentation](../README.md) | [Hypervisors](../Hypervisors/README.md) | [Network Administration](../Network%20Administration/Network%20Configuration%20Basics.md) | [Scripts](../Scripts/README.md) | [System Administrasion](../System%20Administration/README.md) | [Ticketing Systems](../Ticketing%20Systems/README.md) | [Troubleshooting Guides](../Troubleshooting%20Guides/IT%Troubleshooting%20Documentation.md)
 # **Introduction to Script Management**
 
 Welcome to the guide for running scripts on Linux and PowerShell. This document provides the essentials for executing scripts on both platforms, along with sample scripts for common tasks.
