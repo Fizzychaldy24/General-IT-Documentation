@@ -1,3 +1,4 @@
+[System Administration](../README.md)
 # Active Directory Replication Troubleshooting
 
 Active Directory (AD) replication ensures that changes made to objects on one Domain Controller (DC) are replicated across all other DCs in the domain or forest. Replication issues can lead to inconsistent data, authentication problems, and other disruptions. This guide outlines how to troubleshoot and resolve common Active Directory replication issues.
