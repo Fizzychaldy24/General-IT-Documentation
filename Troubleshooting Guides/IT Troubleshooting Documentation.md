@@ -1,4 +1,4 @@
-[General IT Documentation](../README.md) | [Hypervisors](../Hypervisors/README.md) | [Network Administration](../README.md) | [Scripts](../README.md) | [System Administrasion](../README.md) |  [System Administration](../README.md) | [Ticketing Systems](../README.md) | [Troubleshooting Guides](../README.md)
+[General IT Documentation](../README.md) | [Hypervisors](../Hypervisors/README.md) | [Network Administration](../Network%20Administration/Network%20Configuration%20Basics.md) | [Scripts](../README.md) | [System Administrasion](../README.md) |  [System Administration](../README.md) | [Ticketing Systems](../README.md) | [Troubleshooting Guides](../README.md)
 # IT Troubleshooting Documentation
 
 ## Table of Contents
