@@ -72,14 +72,24 @@ This section provides guides and best practices for setting up and configuring t
 This section provides a collection of useful scripts for automating IT tasks, system administration, troubleshooting, and more. These scripts are designed to simplify and speed up common IT operations across different platforms and environments.
 
 #### Examples:
+
 - **Linux User Management Script**: A Bash script for adding, modifying, and deleting user accounts.
+- **Linux System Information Script**: A Bash script to retrieve basic system information (CPU, memory, etc.).
+- **Linux Network Information Script**: A Bash script to fetch network information such as IP address and DNS settings.
+- **Linux System Uptime Script**: A Bash script to check system uptime.
+- **Linux Ping Multiple Servers Script**: A Bash script for pinging multiple servers to check their connectivity status.
+- **Linux Creating and Running a Script**: A guide for creating and running Bash scripts on Linux, including making them executable and running them in the terminal.
+
 - **Windows Service Status Checker**: PowerShell script to check the status of critical services on Windows servers.
-- **Network Troubleshooting Script**: A Python script that automates the process of diagnosing network connectivity issues.
+- **PowerShell Create Local User Account**: A PowerShell script to create a new local user account.
+- **PowerShell Get Basic System Information**: A PowerShell script to get basic system information (CPU, memory, etc.).
+- **PowerShell Get Network Information**: A PowerShell script to get network details such as IP address, DNS, etc.
+- **PowerShell Get System Uptime**: A PowerShell script to fetch system uptime.
+- **PowerShell Ping Multiple Servers**: A PowerShell script to ping multiple servers to check their connectivity status.
+- **PowerShell Creating and Running a Script**: A guide for creating and running PowerShell scripts, including setting execution policies and executing scripts in PowerShell.
 
 #### Resources:
-- [Linux User Management Script](scripts/linux-user-management.sh) - A script to manage user accounts in Linux.
-- [Windows Service Status Checker](scripts/windows-service-check.ps1) - PowerShell script to check the status of services on Windows machines.
-- [Network Troubleshooting Script](scripts/network-troubleshooting.py) - A Python script that checks network connectivity and generates a report.
+- [PowerShell and Linux Scripts Documentation](Scripts/README.md) - User management, system info, network info, uptime, ping, and script creation for both Linux and Windows.
 
 ## How to Use
 
