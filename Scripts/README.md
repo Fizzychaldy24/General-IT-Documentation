@@ -1,4 +1,4 @@
-General IT Documentation: [README.md](../README.md)
+[General IT Documentation](../README.md)
 # **Introduction to Script Management**
 
 Welcome to the guide for running scripts on Linux and PowerShell. This document provides the essentials for executing scripts on both platforms, along with sample scripts for common tasks.
