@@ -1,4 +1,4 @@
-[Ticketing Systems](../README.md) | [General IT Documentation](/README.md) 
+[General IT Documentation](/README.md) 
 # Knowledge Base Integration and Troubleshooting
 
 ## Table of Contents
