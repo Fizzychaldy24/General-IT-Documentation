@@ -1,4 +1,4 @@
-[General IT Documentation](/README.md) | [Hypervisors](/Hypervisors/README.md) | [Network Administration](/Network%20Administration/Network%20Configuration%20Basics.md) | [Scripts](/Scripts/README.md) | [System Administrasion](/System%20Administration/README.md) | [Ticketing Systems](../README.md) | [Troubleshooting Guides](/Troubleshooting%20Guides/IT%20Troubleshooting%20Documentation.md)
+[Ticketing Systems](../README.md) | [General IT Documentation](/README.md) 
 # Macros, Reporting, and Analytics
 
 ## Table of Contents
