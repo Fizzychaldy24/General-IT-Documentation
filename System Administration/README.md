@@ -8,7 +8,7 @@ Welcome to the **System Administration Documentation**. Below is an organized in
 - [Linux Service Configuration](Linux%20Administration/Linux%20Service%20Configuration.md)  
   Learn how to configure and manage services in a Linux environment, including starting, stopping, and configuring system services.
   
-- [Linux Shell Scripting Basics](Scripts/Bash/Bash%20Scripting%20Examples.md)  
+- [Linux Shell Scripting Basics](../Scripts/Bash/Bash%20Scripting%20Examples.md)  
   A beginner's guide to shell scripting in Linux, covering basic syntax, commands, and writing simple scripts for automation.
 
 - [Linux User Management](Linux%20Administration/Linux%20User%20Management.md)  
