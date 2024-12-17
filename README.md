@@ -68,9 +68,7 @@ This section provides guides and best practices for setting up and configuring t
 - **Freshservice**: How to configure and manage incidents, changes, and assets.
 
 #### Resources:
-- [Jira Service Management Setup](ticketing-systems/jira-setup.md) - A step-by-step guide on setting up Jira for IT support.
-- [Zendesk Ticket Workflow](ticketing-systems/zendesk-workflow.md) - How to streamline your ticket management process with workflows in Zendesk.
-- [Freshservice Configuration](ticketing-systems/freshservice-config.md) - Guide to configuring Freshservice for efficient incident and change management.
+- [Jira Service Management, Zendesk, and Freshservice Documentation](ticketing-systems/jira-setup.md) - omprehensive guides covering ticket management, SLAs, automation, integrations, reporting, knowledge base setup, and troubleshooting for each platform, aimed at streamlining support processes and improving team efficiency.
 
 ## Scripts
 
