@@ -1,4 +1,4 @@
-[System Administration](../README.md)
+[General IT Documentation](../README.md)
 # Linux User Management
 
 This document provides a guide on how to add, modify, and manage users in a Linux environment. Understanding user management is essential for administering Linux systems and ensuring proper access control.
