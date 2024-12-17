@@ -1,4 +1,4 @@
-[System Administration](../README.md)
+[General IT Documentation](../README.md)
 # macOS System Settings
 
 This guide covers how to configure **macOS System Settings** to manage various aspects of your system, including network settings, security preferences, and more. Learn how to customize macOS to meet your specific needs.
