@@ -1,4 +1,4 @@
-[General IT Documentation](../README.md)
+[General IT Documentation](../README.md) | [Ticketing Systems](../README.md) | [System Administrasion](../README.md)
 # IT Troubleshooting Documentation
 
 ## Table of Contents
