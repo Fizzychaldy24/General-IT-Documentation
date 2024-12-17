@@ -1,4 +1,4 @@
-General IT Documentation: [README.md](../README.md)
+[General IT Documentation](../README.md)
 # IT Troubleshooting Documentation
 
 ## Table of Contents
