@@ -81,4 +81,4 @@ Welcome to the Helpdesk Documentation for **Jira Service Management**, **Zendesk
 - **Updates:** This documentation is regularly updated; ensure you are referencing the latest version.
 
 
-General IT Documentation: [README.md](../README.md)
+-**General IT Documentation**: [README.md](../README.md)
