@@ -47,7 +47,7 @@ This section contains useful guides on managing and configuring **Hyper-V** and 
 This section provides guides and best practices for setting up and configuring ticketing systems for IT helpdesk support.
 
 #### Resources:
-- [Jira Service Management, Zendesk, and Freshservice Documentation](ticketing-systems/jira-setup.md) - Comprehensive guides covering ticket management, SLAs, automation, integrations, reporting, knowledge base setup, and troubleshooting for each platform, aimed at streamlining support processes and improving team efficiency.
+- [Jira Service Management, Zendesk, and Freshservice Documentation](Ticketing%20Systems/README.md) - Comprehensive guides covering ticket management, SLAs, automation, integrations, reporting, knowledge base setup, and troubleshooting for each platform, aimed at streamlining support processes and improving team efficiency.
 
 ## Scripts
 
