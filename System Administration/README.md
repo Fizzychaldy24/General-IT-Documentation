@@ -13,9 +13,6 @@ Welcome to the **System Administration Documentation**. Below is an organized in
 - [Linux User Management](Linux%20Administration/Linux%20User%20Management.md)  
   Instructions on creating, managing, and deleting user accounts, setting permissions, and configuring user roles on Linux systems.
 
-- [Linux-README](Linux%20Administration/Linux-README.md)  
-  A comprehensive overview of Linux administration, covering service management, user configurations, and essential administration tasks.
-
 ---
 
 ## Mac OS Administration
@@ -29,9 +26,6 @@ Welcome to the **System Administration Documentation**. Below is an organized in
 - [macOS User Management](Mac%20OS%20Administration/macOS%20User%20Management.md)  
   Learn how to create and manage user accounts in macOS, assign privileges, and configure access levels for users.
 
-- [macOS-README](Mac%20OS%20Administration/README.md)  
-  A comprehensive guide to macOS administration, covering file management, user setup, and system configuration.
-
 ---
 
 ## Windows Administration
@@ -44,9 +38,6 @@ Welcome to the **System Administration Documentation**. Below is an organized in
 
 - [Managing Group Policies](Windows%20Administration/Managing%20Group%20Policies.md)  
   A guide to managing Group Policies in Windows, including creating, editing, and applying policies for users and computers.
-
-- [Windows-README](Windows%20Administration/README.md)  
-  Overview of Windows administration topics including AD setup, user/group management, and Group Policy management.
 
 - [User and Group Management in Windows](Windows%20Administration/User%20and%20Group%20Management%20in%20Windows.md)  
   Learn how to create, manage, and assign user accounts and groups in Windows, including setting permissions and access controls.
