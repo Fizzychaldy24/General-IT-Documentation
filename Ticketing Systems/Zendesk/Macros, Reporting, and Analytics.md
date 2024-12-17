@@ -1,4 +1,4 @@
-[Ticketing Systems](../README.md) | [General IT Documentation](/README.md) 
+[General IT Documentation](/README.md) 
 # Macros, Reporting, and Analytics
 
 ## Table of Contents
