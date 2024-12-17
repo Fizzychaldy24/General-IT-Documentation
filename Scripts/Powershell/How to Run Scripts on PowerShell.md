@@ -1,4 +1,4 @@
-[System Administration](../README.md)
+[General IT Documentation](../README.md)
 # How to Create and Run a PowerShell Script
 
 This guide will show you how to create and run a basic PowerShell script on a Windows system.
