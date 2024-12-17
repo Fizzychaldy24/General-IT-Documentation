@@ -67,23 +67,6 @@ This section provides guides and best practices for setting up and configuring t
 - **Zendesk**: Installation and configuration, ticket management, and automation.
 - **Freshservice**: How to configure and manage incidents, changes, and assets.
 
-**Common Tasks for Helpdesk:**
-
-    Jira Service Management:
-        Creating and managing tickets: How to create, update, and resolve support tickets.
-        Ticket workflows: Setting up workflows for ticket routing, escalation, and closure.
-        Integrations: Connecting Jira with other systems like email, Slack, or asset management tools.
-
-    Zendesk:
-        Creating tickets: How to create and manage tickets using Zendesk.
-        Ticket routing: Using triggers, automations, and views to manage ticket flow.
-        Customer communication: How to respond to tickets effectively and track interactions.
-
-    Freshservice:
-        Incident management: Creating, updating, and closing incidents.
-        Asset management: How to manage assets and link them to tickets.
-        Change management: Setting up and managing change requests in Freshservice.
-
 #### Resources:
 - [Jira Service Management Setup](ticketing-systems/jira-setup.md) - A step-by-step guide on setting up Jira for IT support.
 - [Zendesk Ticket Workflow](ticketing-systems/zendesk-workflow.md) - How to streamline your ticket management process with workflows in Zendesk.
