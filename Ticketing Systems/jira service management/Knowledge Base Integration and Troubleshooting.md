@@ -1,4 +1,4 @@
-[Ticketing Systems](../README.md) | [General IT Documentation](/README.md) 
+[General IT Documentation](/README.md) 
 # Ticket Management and Workflows
 
 ## Table of Contents
