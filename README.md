@@ -75,12 +75,21 @@ This section provides a collection of useful scripts for automating IT tasks, sy
 
 - **Linux User Management Script**: A Bash script for adding, modifying, and deleting user accounts.
 - **Linux System Information Script**: A Bash script to retrieve basic system information (CPU, memory, etc.).
+- **Linux Network Information Script**: A Bash script to fetch network information such as IP address and DNS settings.
+- **Linux System Uptime Script**: A Bash script to check system uptime.
+- **Linux Ping Multiple Servers Script**: A Bash script for pinging multiple servers to check their connectivity status.
+- **Linux Creating and Running a Script**: A guide for creating and running Bash scripts on Linux, including making them executable and running them in the terminal.
+
+- **Windows Service Status Checker**: PowerShell script to check the status of critical services on Windows servers.
 - **PowerShell Create Local User Account**: A PowerShell script to create a new local user account.
 - **PowerShell Get Basic System Information**: A PowerShell script to get basic system information (CPU, memory, etc.).
+- **PowerShell Get Network Information**: A PowerShell script to get network details such as IP address, DNS, etc.
+- **PowerShell Get System Uptime**: A PowerShell script to fetch system uptime.
+- **PowerShell Ping Multiple Servers**: A PowerShell script to ping multiple servers to check their connectivity status.
+- **PowerShell Creating and Running a Script**: A guide for creating and running PowerShell scripts, including setting execution policies and executing scripts in PowerShell.
 
 #### Resources:
-- [Linux Scripts Documentation](scripts/linux-user-management.md) - User management, system info, network info, uptime, and ping scripts for Linux.
-- [PowerShell Scripts Documentation](scripts/windows-service-check.md) - User account creation, system info, network info, uptime, and ping scripts for Windows.
+- [PowerShell and Linux Scripts Documentation](scripts/README.md) - User management, system info, network info, uptime, ping, and script creation for both Linux and Windows.
 
 ## How to Use
 
