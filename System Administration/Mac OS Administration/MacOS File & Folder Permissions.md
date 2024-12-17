@@ -1,4 +1,4 @@
-[System Administration](../README.md)
+[General IT Documentation](../README.md)
 # macOS File & Folder Permissions
 
 This guide explains how to manage **file and folder permissions** on **macOS**. Learn how to control who has access to your files and folders, what actions they can perform, and how to troubleshoot permission issues.
