@@ -42,10 +42,7 @@ This section contains useful guides on managing and configuring systems, includi
 - **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
 
 #### Resources:
-- [Linux Administration](System%20Administration/Linux%20Administration/Linux-README.md) - Service management, scripting, adding/removing users in Linux environments.
-- [macOS Administrations](System%20Administration/Mac%20OS%20Administration/README.md) - Instructions on managing system settings and user account file/folder permissions in macOS.
-- [Windows AD](System%20Administration/Windows%20Administration/README.md) - Active Directory Setup, user/group management, Group Policies, and replication troubleshooting.
-- [Network Configuration Basics](Network%20Administration/Network%20Configuration%20Basics.md) - Best practices for setting up network services and securing your network.
+- [System Administration](System%20Administration/README.md) - A comprehensive guide covering **Linux**, **macOS**, **Windows** administration, and networking basics.
 
 ## Hypervisors
 
@@ -68,9 +65,7 @@ This section provides guides and best practices for setting up and configuring t
 - **Freshservice**: How to configure and manage incidents, changes, and assets.
 
 #### Resources:
-- [Jira Service Management Setup](ticketing-systems/jira-setup.md) - A step-by-step guide on setting up Jira for IT support.
-- [Zendesk Ticket Workflow](ticketing-systems/zendesk-workflow.md) - How to streamline your ticket management process with workflows in Zendesk.
-- [Freshservice Configuration](ticketing-systems/freshservice-config.md) - Guide to configuring Freshservice for efficient incident and change management.
+- [Jira Service Management, Zendesk, and Freshservice Documentation](ticketing-systems/jira-setup.md) - Comprehensive guides covering ticket management, SLAs, automation, integrations, reporting, knowledge base setup, and troubleshooting for each platform, aimed at streamlining support processes and improving team efficiency.
 
 ## Scripts
 
