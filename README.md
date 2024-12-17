@@ -56,8 +56,7 @@ This section contains useful guides on managing and configuring Hyper-V and VMwa
 - **Microsoft Hyper-V**: Guides for installation, configuration, and troubleshooting virtual machines.
   
 #### Resources:
-- [Hyper-V Guide](hypervisors/hyperv-setup.md) - Setup, installation, and management.
-- [VMware vSphere Guide](hypervisors/vmware-best-practices.md) - Setup, installation, and management.
+-[Hyper-V/VMware-vSphere Guide](Hypervisors/README.md)
 
 ## Ticketing Systems
 
