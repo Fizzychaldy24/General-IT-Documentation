@@ -1,3 +1,4 @@
+[System Administration](../README.md)
 # PowerShell Scripts Guide
 
 This guide contains several PowerShell scripts for different system tasks including creating user accounts, retrieving system information, and pinging servers. The scripts are organized in the sections below for easy reference.
