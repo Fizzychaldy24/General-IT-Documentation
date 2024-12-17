@@ -49,14 +49,14 @@ This section contains useful guides on managing and configuring systems, includi
 
 ## Hypervisors
 
-This section contains useful guides on managing and configuring Hyper-V and VMware vSphere environments. These guides will help you with essential tasks like network configuration, performance monitoring, storage management, and VM creation.
+This section contains useful guides on managing and configuring **Hyper-V** and **VMware vSphere** environments. These guides will help you with essential tasks like network configuration, performance monitoring, storage management, and VM creation.
 
 ### Virtualization Platforms Supported:
 - **VMware vSphere/ESXi**: Documentation on installation, setup, and management.
 - **Microsoft Hyper-V**: Guides for installation, configuration, and troubleshooting virtual machines.
   
 #### Resources:
--[Hyper-V/VMware-vSphere Guide](Hypervisors/README.md)
+- [Hyper-V/VMware vSphere Guide](Hypervisors/README.md): A comprehensive guide covering key configurations, management, and troubleshooting steps for both **Hyper-V** and **VMware vSphere** environments.
 
 ## Ticketing Systems
 
