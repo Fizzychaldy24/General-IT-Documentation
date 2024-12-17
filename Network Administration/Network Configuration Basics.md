@@ -1,4 +1,4 @@
-[General IT Documentation](../README.md) | [Hypervisors](../Hypervisors/README.md) | [Network Administration](../Network%20Administration/Network%20Configuration%20Basics.md) | [Scripts](../Scripts/README.md) | [System Administrasion](../System%20Administration/README.md) | [Ticketing Systems](../Ticketing%20Systems/README.md) | [Troubleshooting Guides](../Troubleshooting%20Guides/IT%20Troubleshooting%20Documentation.md)
+[General IT Documentation](../README.md)
 # Network Configuration Basics
 
 This guide provides an overview of **best practices for setting up network services** and **securing your network**. It covers the key elements needed to ensure a stable, efficient, and secure network environment.
