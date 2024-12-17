@@ -6,14 +6,14 @@ Welcome to the Helpdesk Documentation for **Jira Service Management**, **Zendesk
 
 ## Jira Service Management Documentation
 
-### 1. [Ticket Management and Workflows](docs/jira/ticket-management-workflows.md)
+### 1. [Ticket Management and Workflows](jira%20service%20management/Knowledge%20Base%20Integration%20and%20Troubleshooting.md)
    - **Topics Covered:**  
      - Creating and Managing Tickets  
      - Ticket Workflows  
      - Automation Rules  
    - **Description:** Learn how to create, manage, and resolve tickets, set up workflows, automate ticket assignments, and send notifications to streamline your support process.
 
-### 2. [Service Level Agreements (SLAs) and Reports](docs/jira/slas-reports.md)
+### 2. [Service Level Agreements (SLAs) and Reports](jira%20service%20management/Service%20Level%20Agreements%20(SLAs)%20and%20Reports.md)
    - **Topics Covered:**  
      - Service Level Agreements (SLAs)  
      - Reports and Dashboards  
