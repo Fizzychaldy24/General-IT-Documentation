@@ -1,4 +1,4 @@
-[General IT Documentation](../README.md) [Ticketing Systems]()
+[General IT Documentation](../README.md) [Ticketing Systems](Ticketing%20Systems/README.md)
 # Helpdesk Documentation Index
 
 Welcome to the Helpdesk Documentation for **Jira Service Management**, **Zendesk**, and **Freshservice**. This index contains links to the relevant sections, allowing you to easily navigate through the topics and find the information you need.
