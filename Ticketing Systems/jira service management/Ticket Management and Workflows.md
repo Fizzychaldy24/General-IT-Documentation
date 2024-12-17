@@ -1,4 +1,3 @@
-General IT Documentation: [README.md](../README.md)
 # Knowledge Base Integration and Troubleshooting
 
 ## Table of Contents
