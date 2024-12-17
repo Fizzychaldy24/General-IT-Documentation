@@ -42,7 +42,7 @@ This section contains useful guides on managing and configuring systems, includi
 - **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
 
 #### Resources:
-- [System Administration README](System%20Administration/README.md) - A comprehensive guide covering **Linux**, **macOS**, **Windows** administration, and networking basics.
+- [System Administration](System%20Administration/README.md) - A comprehensive guide covering **Linux**, **macOS**, **Windows** administration, and networking basics.
 
 ## Hypervisors
 
