@@ -42,10 +42,7 @@ This section contains useful guides on managing and configuring systems, includi
 - **Networking Basics**: IP addressing, firewall rules, and VPN configuration.
 
 #### Resources:
-- [Linux Administration](System%20Administration/Linux%20Administration/Linux-README.md) - Service management, scripting, adding/removing users in Linux environments.
-- [macOS Administrations](System%20Administration/Mac%20OS%20Administration/README.md) - Instructions on managing system settings and user account file/folder permissions in macOS.
-- [Windows AD](System%20Administration/Windows%20Administration/README.md) - Active Directory Setup, user/group management, Group Policies, and replication troubleshooting.
-- [Network Configuration Basics](Network%20Administration/Network%20Configuration%20Basics.md) - Best practices for setting up network services and securing your network.
+- [System Administration README](System%20Administration/README.md) - A comprehensive guide covering **Linux**, **macOS**, **Windows** administration, and networking basics.
 
 ## Hypervisors
 
