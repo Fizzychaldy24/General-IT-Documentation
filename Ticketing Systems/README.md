@@ -1,4 +1,4 @@
-[General IT Documentation](../README.md) | [Hypervisors](../Hypervisors/README.md) | [Network Administration](../Network%20Administration/Network%20Configuration%20Basics.md) | [Scripts](../Scripts/README.md) | [System Administrasion](../System%20Administration/README.md) | [Troubleshooting Guides](Troubleshooting%20Guides/IT%Troubleshooting%20Documentation.md)
+[General IT Documentation](../README.md) | [Hypervisors](../Hypervisors/README.md) | [Network Administration](../Network%20Administration/Network%20Configuration%20Basics.md) | [Scripts](../Scripts/README.md) | [System Administrasion](../System%20Administration/README.md) | [Troubleshooting Guides](../Troubleshooting%20Guides/IT%Troubleshooting%20Documentation.md)
 # Helpdesk Documentation Index
 
 Welcome to the Helpdesk Documentation for **Jira Service Management**, **Zendesk**, and **Freshservice**. This index contains links to the relevant sections, allowing you to easily navigate through the topics and find the information you need.
