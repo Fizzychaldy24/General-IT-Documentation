@@ -1,4 +1,4 @@
-[Ticketing Systems](../README.md) | [General IT Documentation](/README.md) 
+[General IT Documentation](/README.md) 
 # Incident and Change Management
 
 ## Table of Contents
