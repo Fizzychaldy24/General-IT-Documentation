@@ -1,4 +1,4 @@
-[General IT Documentation](../README.md) | [Hypervisors](../Hypervisors/README.md) | [Network Administration](../Network%20Administration/Network%20Configuration%20Basics.md) | [Scripts](../Scripts/README.md) | [System Administrasion](../System%20Administration/README.md) | [Ticketing Systems](../Ticketing%20Systems/README.md) | [Troubleshooting Guides](../Troubleshooting%20Guides/IT%20Troubleshooting%20Documentation.md)
+[General IT Documentation](../README.md)
 # Hyper-V and VMware vSphere Guides
 
 This section contains useful guides on managing and configuring **Hyper-V** and **VMware vSphere** environments. These guides will help you with essential tasks like network configuration, performance monitoring, storage management, and VM creation.
